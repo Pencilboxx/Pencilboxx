@@ -5,11 +5,11 @@
 
 - 👷🏼‍♂️ I’m currently building **AI_In_Store_Operator**
 
-- 🌱 I’m currently learning **Agentic AI, Python**
+- 🪴 I’m currently learning **Agentic AI, Python**
 
-- 💬 Ask me about **CPP, C , Azure,Powerapps, Power automate, C# , CSS, HTML, Javascript**
+- ☎ Ask me about **CPP, C , Azure,Powerapps, Power automate, C# , CSS, HTML, Javascript**
 
-- 📫 How to reach me **soumya13013@gmail.com**
+- 📧 How to reach me **soumya13013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
