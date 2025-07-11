@@ -24,6 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pencilboxx&show_icons=true&locale=en" alt="pencilboxx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pencilboxx&" alt="pencilboxx" /></p>
-
-<p><img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3NjltOTNkMHp2eXRkZGc2cHR3bmVuZHM1bGVjcjJ1OWt2bW1lbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LJqcK2RsIt7fDXk9z8/giphy.webp" width="200" height="200"></p>
+<p><img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZ3NjltOTNkMHp2eXRkZGc2cHR3bmVuZHM1bGVjcjJ1OWt2bW1lbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LJqcK2RsIt7fDXk9z8/giphy.webp" width="200" height="200"></p>
